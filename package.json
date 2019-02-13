@@ -1,0 +1,25 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "A burger logger that logs burgers that a user inputs and logs burgers that a user eats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syddunlap/Burger.git"
+  },
+  "author": "Sydney Dunlap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syddunlap/Burger/issues"
+  },
+  "homepage": "https://github.com/syddunlap/Burger#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
